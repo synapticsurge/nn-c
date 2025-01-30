@@ -51,7 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-#for cmake
+#for cmake and build
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -64,3 +64,4 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+build
