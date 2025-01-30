@@ -1,0 +1,2 @@
+/home/synaptic/projects/nn-c/CMakeFiles/edit_cache.dir
+/home/synaptic/projects/nn-c/CMakeFiles/rebuild_cache.dir

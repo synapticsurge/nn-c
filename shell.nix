@@ -3,5 +3,6 @@
     nativeBuildInputs = with pkgs.buildPackages; [ 
   gcc
   strace
+  cmake
   ];
 }
